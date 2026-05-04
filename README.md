@@ -87,7 +87,7 @@ Entropy production spikes **before and during** market crashes. The market start
 
 ## Visual Design
 
-All outputs follow the **Bloomberg Dark** aesthetic — the design system of the [@quant.traderr](https://instagram.com/quant.traderr) Instagram account, reverse-engineered from their open-source GitHub repository across 41 pipeline files.
+All outputs follow the **Bloomberg Dark** aesthetic
 
 ### Colour System
 
@@ -274,18 +274,6 @@ The financial application — specifically the full 2D surface σ̂(t, asset) re
 
 ---
 
-## Design Reference
-
-Visual design system reverse-engineered from the
-[quant-traderr-lab](https://github.com/quant-traderr/quant-traderr-lab) repository,
-[@quant.traderr](https://instagram.com/quant.traderr) on Instagram.
-
-All 41 pipeline files were analysed to extract the exact colour palette,
-3D rendering techniques, layout grammar, typography, and title block conventions
-that define the Bloomberg Dark aesthetic used throughout this project.
-
----
-
 ## License
 
 MIT License — free to use, modify, and distribute with attribution.
@@ -293,4 +281,4 @@ MIT License — free to use, modify, and distribute with attribution.
 ---
 
 *Built with Python · matplotlib · scipy · numpy · imageio*
-*Design: Bloomberg Dark aesthetic — @quant.traderr*
+*Design: Bloomberg Dark aesthetic.
